@@ -10,7 +10,7 @@ I was curious what the 'Download' available in the upper right side of [the main
 I think the way to go further would be to first try a Binder where the Linux Desktop GUI is present (like the SPyder demo) and add the dependencies that I worked out in `apt.txt`. Then get WebPlotDigitizer, unpack it, and see what happens.
 Alternatively I can trying using it with X server like I did with Orca and [involving software had I had to use in conjunction with xvfb](https://github.com/search?q=owner%3Afomightez%20xvfb&type=code) to run headless when served via MyBInder.org.  
 However, that's a lot to do when I don't know how useful what it provides it is even going to be. (I wish they had something describing what you get from the Download but I haven't found anything.)  
-Plus, I found something that looks promising for what I am currently thinking I'll need:
+Plus, I found something that looks easier to perhaps get working via MyBInder while looking promising for what I am currently thinking I'll need:
 
 [PlotDigitizer](https://github.com/dilawar/PlotDigitizer)  
 >"A Python3 command line utility to digitize plots. This utility is useful when you have a lot of similar plots that needs to be digitized such as EEG, ECG recordings."
